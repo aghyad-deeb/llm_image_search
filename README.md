@@ -25,6 +25,7 @@ Copy the generated API key
 (Optional) Restrict the API key to "Custom Search API" for security
 
 After getting the keys, create a `.env` file with:
+
 OPENAI_API_KEY=sk-proj...
 
 CSE_ID=...
