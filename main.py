@@ -148,6 +148,6 @@ def main():
 
 
 if __name__ == "__main__":
-    for trial in range(10):
-        print(f"\n\n{trial=}\n", image_search('"house kitchen interior with microwave on left, fridge on right, wooden table with chairs in front of counter"', trial))
-    #main()
+    #for trial in range(10):
+    #    print(f"\n\n{trial=}\n", image_search('"house kitchen interior with microwave on left, fridge on right, wooden table with chairs in front of counter"', trial))
+    main()
