@@ -26,8 +26,11 @@ Copy the generated API key
 
 After getting the keys, create a `.env` file with:
 OPENAI_API_KEY=sk-proj...
+
 CSE_ID=...
+
 GOOGLE_API_KEY=AI...
+
 
 ## Usage
 Run `python main.py` and you'll be prompted for the image description.
